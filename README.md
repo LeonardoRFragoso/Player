@@ -5,7 +5,7 @@
 <br>
 
 <h2 align="center">Informações</h2>
-<p align="center">Este projeto foi um desafio proposto pela Rocketseat no programa #boraCodar. Utilizei somente HTML e CSS e terminei tudo em, mais ou menos, 1 hora e meia.</p>
+<p align="center">Projeto foi um desafio proposto pela Rocketseat no programa #boraCodar. </p>
 <br>
 
 <div align="center">
@@ -14,8 +14,8 @@
 <br>
 
 <h2 align="center">Aprendizado</h2>
-<p align="center">Eu tive algumas dificuldades na parte do CSS desse projeto, como o alinhamento dos textos, mas nada demais.</p>
+<p align="center">Praticando um pouco mais de CSS.</p>
 <br>
 
 <h2 align="center">Deploy</h2>
-<p align="center">Veja e interaja com o projeto clicando <a href="https://hijuliacs.github.io/musicplayer/">aqui</a>.</p>
+<p align="center">Aqui voce pode ver e interagir com o projeto clicando <a href="https://github.com/LeonardoRFragoso/Player">aqui</a>.</p>
